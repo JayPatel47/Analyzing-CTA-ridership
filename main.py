@@ -1,9 +1,6 @@
 #
-# CS 341 - Project 1
 #
 # Author: Jay Patel
-# UIN: 663692599
-# NetID: jpate281@uic.edu
 #
 # The purpose of this program is to analyze CTA2 L data in Python
 # where the data is stored in SQLite. This is a console-based Python
